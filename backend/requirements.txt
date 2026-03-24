@@ -1,0 +1,5 @@
+flask
+fastapi
+opencv-python
+face_recognition
+mysql-connector-python
